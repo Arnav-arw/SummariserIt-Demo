@@ -6,11 +6,7 @@ Effective Date: 6th Novemember 2023
 Welcome to the SummifyMe App. By using the SummifyMe App, you agree to be bound by these Terms of Service. Please read these terms carefully. If you do not agree to these terms, please do not use the SummifyMe App.
 
 ## 2. Use of the App
-### 2.1 License: 
 We grant you a limited, non-exclusive, non-transferable, and revocable license to use the SummifyMe App for personal, non-commercial purposes. You may not use the app in any manner that violates these terms or any applicable laws or regulations.
-
-### 2.2 Age Restrictions: 
-To use the SummifyMe App, you must be at least 13 years old. If you are under 13, you may not use the app, and if you are between 13 and 18, you must have parental or legal guardian consent to use the app.
 
 ## 3. User Content
 ### 3.1 Responsibility: 
