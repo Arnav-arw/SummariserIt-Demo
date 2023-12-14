@@ -1,6 +1,6 @@
 # Terms and Service
 
-Effective Date: 6th Novemember 2023
+Effective Date: 14th December 2023
 
 ## 1. Acceptance of Terms
 Welcome to the SummifyMe App. By using the SummifyMe App, you agree to be bound by these Terms of Service. Please read these terms carefully. If you do not agree to these terms, please do not use the SummifyMe App.
